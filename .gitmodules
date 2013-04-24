@@ -1,0 +1,3 @@
+[submodule "MDPageControlDemo/MDPageControl"]
+	path = MDPageControlDemo/MDPageControl
+	url = git@github.com:mochidev/MDPageControl.git
